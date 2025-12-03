@@ -16,4 +16,4 @@ print("Hey,zerocoder. You Ok?")
 print("I'm ok!")
 print("first margin completed successfully!")
 print("Hey,zerocoder. You Ok?"
-      "/n Yeeeeeeeees")
+      "\n Yeeeeeeeees")
