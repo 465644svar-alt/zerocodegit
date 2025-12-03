@@ -1,4 +1,5 @@
-print("Hello world")
-print("Hello world")
-print("Hello world")
+print("Hey,GitHub. You EROR?")
+print("I'm ok!")
+print("Hey,zerocoder. You Ok?")
+print("I'm ok!")
 print("Hey,zerocoder. You Ok?")
